@@ -42,6 +42,7 @@ Flash voltage set by eFuse: 3.3V
 - https://github.com/78/xiaozhi-esp32/discussions/1371
 - https://cloud.binary.ninja/bn/9a777727-d246-4de8-88c6-ff30a6774708
 - https://documentation.espressif.com/esp32-s3_datasheet_en.pdf
+- https://www.facebook.com/groups/HomeAssistant/posts/4152498265021512 initial post where I found info about board. Lot's of complaining from OP unfortunately. Also found PCB image without TF card.
 
 # TODO
 - [x] Dump firmware
